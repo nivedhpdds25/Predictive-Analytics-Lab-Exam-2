@@ -10,4 +10,4 @@ Then the class imbalance is dealt with SMOTE
 <img width="695" height="547" alt="image" src="https://github.com/user-attachments/assets/47dbccd4-5e9c-4397-94ef-1a1a020fa412" />
 After the class imabalance and the missing values in the target is dealt with, then i split the dataset to train and test.
 After the train and test, i use logistic regression.
-
+The results are uploaded, evaluation is also done.
