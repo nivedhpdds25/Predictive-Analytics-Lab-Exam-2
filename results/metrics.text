@@ -13,3 +13,10 @@ Classification Report:
     accuracy                           0.53       300
    macro avg       0.53      0.55      0.49       300
 weighted avg       0.68      0.53      0.56       300
+
+The confusion matrix used for visualization was:
+True Positives (top-left): 118
+False Negatives (top-right): 113
+False Positives (bottom-left): 29
+True Negatives (bottom-right): 40
+
