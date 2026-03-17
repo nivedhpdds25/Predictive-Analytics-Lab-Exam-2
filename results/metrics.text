@@ -1,1 +1,15 @@
-I have attached the decision boundary result image with the 
+I have attached the decision boundary result image.
+The confusion matrix results is as follows 
+Confusion Matrix:
+[[118 113]
+ [ 29  40]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.80      0.51      0.62       231
+           1       0.26      0.58      0.36        69
+
+    accuracy                           0.53       300
+   macro avg       0.53      0.55      0.49       300
+weighted avg       0.68      0.53      0.56       300
